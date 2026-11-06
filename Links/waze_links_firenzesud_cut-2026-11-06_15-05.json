@@ -1,0 +1,56 @@
+{
+  "incidents": [
+    {
+      "incident": {
+        "id": "cut_0",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_CONSTRUCTION",
+        "polyline": "43.74042683744745 11.277515467931465 43.740396 11.277291 43.740344 11.27673 43.74031291412566 11.276350637200181",
+        "street": "A01",
+        "starttime": "2026-12-25T08:00:00+0100",
+        "endtime": "2026-12-25T17:00:00+0100",
+        "description": "Cut polyline. Autostrada: A01; FIRENZE SUD_ (FIRENZE SUD -_ FIRENZE IMPRUNETA) ; 385-384 ; Entrance",
+        "direction": "ONE_DIRECTION"
+      }
+    },
+    {
+      "incident": {
+        "id": "cut_1",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_CONSTRUCTION",
+        "polyline": "43.73992602154931 11.276955325273315 43.739986 11.277304 43.740198 11.278581 43.74025494476466 11.278951734144895",
+        "street": "A01",
+        "starttime": "2026-12-25T08:00:00+0100",
+        "endtime": "2026-12-25T17:00:00+0100",
+        "description": "Cut polyline. Autostrada: A01; FIRENZE SUD_ (FIRENZE SUD -_ INCISA REGGELLO) ; 385-387 ; Entrance",
+        "direction": "ONE_DIRECTION"
+      }
+    },
+    {
+      "incident": {
+        "id": "cut_2",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_CONSTRUCTION",
+        "polyline": "43.74072036761662 11.281075309160634 43.740733 11.281526 43.74073 11.282097 43.74072982357115 11.282102074429732",
+        "street": "A01",
+        "starttime": "2026-12-25T08:00:00+0100",
+        "endtime": "2026-12-25T17:00:00+0100",
+        "description": "Cut polyline. Autostrada: A01; FIRENZE SUD_ (INCISA REGGELLO -_ FIRENZE SUD) ; 387-385 ; Exit",
+        "direction": "ONE_DIRECTION"
+      }
+    },
+    {
+      "incident": {
+        "id": "cut_3",
+        "type": "ROAD_CLOSED",
+        "subtype": "ROAD_CLOSED_CONSTRUCTION",
+        "polyline": "43.739767933844924 11.27553147511139 43.73977 11.275416 43.739775 11.274964 43.739772 11.274773 43.739766 11.274576 43.739758 11.274449 43.739743 11.274312 43.739716 11.274111 43.739674 11.273919 43.739617 11.273693 43.739559 11.2735 43.739540436474066 11.27344639781887",
+        "street": "A01",
+        "starttime": "2026-12-25T08:00:00+0100",
+        "endtime": "2026-12-25T17:00:00+0100",
+        "description": "Cut polyline. Autostrada: A01; FIRENZE SUD_ (FIRENZE IMPRUNETA -_ FIRENZE SUD) ; 384-385 ; Exit",
+        "direction": "ONE_DIRECTION"
+      }
+    }
+  ]
+}
